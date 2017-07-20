@@ -10,9 +10,9 @@
 
 ## Links / Resources from our conversation 
 
-https://developers.google.com/web/progressive-web-apps/
-https://pusher.com/
-https://socket.io/
-https://github.com/vuejs/vuex
-https://www.rethinkdb.com/
-https://yarnpkg.com/en/
+* https://developers.google.com/web/progressive-web-apps/
+* https://pusher.com/
+* https://socket.io/
+* https://github.com/vuejs/vuex
+* https://www.rethinkdb.com/
+* https://yarnpkg.com/en/
